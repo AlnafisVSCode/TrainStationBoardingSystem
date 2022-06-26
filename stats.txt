@@ -1,0 +1,4 @@
+Longest waited: 303
+Shortest waited: 15
+Average waited: 207
+Max queue length: 30
